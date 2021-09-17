@@ -68,6 +68,11 @@ The readme file
 
 
 
+More
+====
+Website: https://github.com/michaelkolesidis/dragons_dice_roller
+Trivia: Dragon's Dice Roller is the first (and so far the only) 
+open source RPG dice roller available on GitHub written in C!
 
 
 
