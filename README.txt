@@ -76,3 +76,4 @@ open source RPG dice roller available on GitHub written in C!
 
 
 
+// Last Update: 09/17/2021 //
